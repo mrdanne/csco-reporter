@@ -1,0 +1,25 @@
+"Phrases"
+{
+	"welcome"
+	{
+		"en"		"{green}cowatcher.org | This server is supporting our CS:CO Anticheat plugin. Use sm_report in your console to report hackers."
+	}
+	"blockmessage"
+	{
+		"en"		"cowatcher.org | You got kicked because u are in our hacker banlist. Please visit cowatcher.org for more details."
+	}
+	"protecktmessage"
+	{
+		"#format"	"{1:s}"
+		"en"		"{green}cowatcher.org | We kicked {1} because he is hacking."
+	}
+	"reportmenu_title"
+	{
+		"en"		"Report suspicious gamer:"
+	}
+	"report_confirmed"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"{green}cowatcher.org | You have successfully reported {1} ({2})."
+	}
+}
