@@ -1,17 +1,19 @@
-# csco-reporter
-Allows CS:CO players to report hackers on a global database.
-We will collect the reports and penalize gamers with high report amounts.
+# cowatcher | csco-reporter
+The new CS:CO Anticheat software. It allows players to report hackers on supported servers.<br>
+For more details check cowatcher.org
 
 # installation
-1) Drag the csco-reporter.smx in your servers sourcemod/addons/plugins<br>
-2) Add the "onepointsix_report_service" entry from the databases.cfg in your servers sourcemod/configs/databases.cfg, or just use my file if you dont have any modifications on yours. <br>
-3) changelevel or "rcon sm plugins load csco-reporter" in console without the ""<br>
-
-You can also basicly drag the addons folder in your csco server directory.<br>
+1) Drag the content from the sourcemods folder in your servers sourcemod folder<br>
+2) changelevel or "rcon sm plugins load cowatcher" in console without the ""<br>
 
 # How to use
 write !report in the chat (not recommended, because all players on the server can see that)<br>
-write "sm_report" in your console without the ""
+write "sm_report" in your console without the ""<br>
+
+# Features:
+!report or sm_report
+Chatcolors
+Translations
 
 # Also helpful
 bind "<your_key>" "sm_report" to bind the report menu on a key
