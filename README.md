@@ -37,7 +37,7 @@ Banprotection<br>
 Watchers can join the game<br>
 
 # Also helpful
-bind "<your_key>" "sm_report" to bind the report menu on a key
+bind "your_key" "sm_report" to bind the report menu on a key
 
 # Please Notice
 All old version of this programm (csco-reporter) will not work anymore.
