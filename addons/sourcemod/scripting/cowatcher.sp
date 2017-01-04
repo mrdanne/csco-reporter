@@ -122,7 +122,7 @@ Menu BuildMenu(client)
  
 	if(min == 0)
 	{
-		CPrintToChat(client, "%T", "nobody_to_report");
+		CPrintToChat(client, "%T", "nobody_to_report", client);
 	}
  
 	return menu;
