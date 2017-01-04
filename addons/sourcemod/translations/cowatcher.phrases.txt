@@ -6,7 +6,7 @@
 	}
 	"blockmessage"
 	{
-		"en"		"cowatcher.org | You got kicked because u are in our hacker banlist. Please visit cowatcher.org for more details."
+		"en"		"cowatcher.org | You got kicked because you are in our hacker banlist. Please visit cowatcher.org for more details."
 	}
 	"protecktmessage"
 	{
